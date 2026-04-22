@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://company.getit.express">
-    <img src="https://company.getit.express/logo/no-bg/2.svg" alt="GetIt Express Private Limited" height="80" />
+    <img src="https://company.getit.express/logo/bg/2.svg" alt="GetIt Express Private Limited" height="80" />
   </a>
 </p>
 
